@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://diap.unicerrado.edu.br/sitemap.xml
