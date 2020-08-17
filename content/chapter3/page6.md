@@ -20,13 +20,16 @@ O vídeo a seguir mostra a mais simples das 4 formas. Contudo, talvez a experiê
 
 ## 2ª Opção: Janela de um Aplicativo
 
-Já nessa segudna opção, o vídeo traz uma proposta um pouco mais rica em experiência e bastante simples de ser excutada, haja vista que não exige nehum investimento a mais de equipamentos, apenas um pouco de treino e dedicação. Entretanto, é necessário que se experiencie antes de ministrar a aula para avaliar se o resultado é o que se espera.
+Já nessa segunda opção, o vídeo traz uma proposta um pouco mais rica em experiência e bastante simples de ser excutada, haja vista que não exige nehum investimento a mais de equipamentos, apenas um pouco de treino e dedicação. Entretanto, é necessário que se experiencie antes de ministrar a aula para avaliar se o resultado é o que se espera.
 
-{{ mytube(id="xuoan4FR-m0") }}
+{{ mytube(id="UX3sF1Ed_tw") }}
 
 ## 3ª Opção: Uma Guia do Navegador
-### diponível em breve (previsão: 14/8/2020)
+ 
+ A terceira opção oferece uma enorme flexibilidade para dominar o recurso de comaprtilhamento de tela. O vídeo a seguir, apresenta uma proposta muito interessante para compartilhar slides, vídeos e qualquer outro tipo de recurso que possa ser acessado pelo navegador de internet, bem como vídeos que também estejam arquivados localmente. O tutorial aborda o desprendimento da aba em forma de janela para ampliar o controle que professor pode ter dos recursos apresentados concomitante com o acompanhamento da renião e das interações com os participantes.
+
+ {{ mytube(id="U2zTUMFSCco") }}
 
 
 ## 4ª Opção: Apresentando em uma Segunda Tela
-### diponível em breve (previsão: 14/8/2020)
+### diponível em breve

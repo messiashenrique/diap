@@ -42,3 +42,22 @@ $sidebar-width: 300px;
 
 
 img[src*="#thumbnail"] {height:250px;}
+
+@include max-screen(600px) {
+  .menu {
+    width: 200px;
+  }
+  .page {
+    left: 200px;
+    width: auto;
+  }
+}
+
+@include max-screen(600px) {
+  .menu-hidden {
+    width: 0;
+  }
+  .page-without-menu {
+    left: 0;
+  }
+}
