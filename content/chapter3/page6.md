@@ -32,4 +32,7 @@ Já nessa segunda opção, o vídeo traz uma proposta um pouco mais rica em expe
 
 
 ## 4ª Opção: Apresentando em uma Segunda Tela
-### diponível em breve
+
+Como última alternativa dessa série sobre o compartilhamento de tela no Google Meet, apresentamos a 4ª Opção. O vídeo abaixo mostra uma forma se utilizar um monitor extra, isto é duas telas, para que o Profesor tenha muito mais liberdade ao controlar a apresentação e interarir totalmente com os participantes da aula, tudo ao mesmo tempo.
+
+{{ mytube(id="_Y_p3hn2Jxk")}}
