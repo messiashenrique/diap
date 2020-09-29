@@ -8,3 +8,8 @@ weight = 4
 
 {{ mytube(id="3J58WTdKHWE") }}
 
+## Elaborando e Configurando Avaliações
+
+{{ mytube(id="tTw3z_-Q3a4") }}
+
+
