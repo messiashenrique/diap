@@ -1,5 +1,5 @@
 +++
-title = "Criando testes (Formulários)"
+title = "Atividades com testes (Formulários)"
 weight = 4
 +++
 
@@ -11,5 +11,9 @@ weight = 4
 ## Elaborando e Configurando Avaliações
 
 {{ mytube(id="tTw3z_-Q3a4") }}
+
+## Corrigindo as Avaliações
+
+{{ mytube(id="ZUa359VzHpc") }}
 
 
