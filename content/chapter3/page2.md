@@ -1,9 +1,17 @@
 +++
-title = "Exibindo todos os participantes"
+title = "Mentimeter"
 weight = 2
 +++
 
-## Exibindo todos os participantes na mesma tela
+## Conheça mais sobre a Mentimeter
 
-{{ mytube(id="KEn0mbmdzJM") }}
+Para conhecer melhor a Mentimeter, consulte o [site oficial](https://www.mentimeter.com/)
+
+### Como criar sua primeira apresentação com a Mentimeter
+
+{{ mytube(id="zDWkAnG0Us0") }}
+
+### Como fazer Exercícios Online e em Tempo Real
+
+{{ mytube(id="4gl8v9sPO0M") }}
 

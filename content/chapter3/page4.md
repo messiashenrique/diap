@@ -1,10 +1,20 @@
 +++
-title = "Problemas para gravar..."
+title = "Trello"
 weight = 4
 +++
 
-### Problemas para encontrar a opção de gravar e participantes caindo da reunião...
+## Conheça mais sobre o Trello
 
-O vídeo a seguir mostra porque isso ocorre e apresenta duas soluções para evitar o problema...
+Para conhecer melhor o Trello, consulte o [site oficial](https://trello.com/pt-BR)
 
-{{ mytube(id="nEnCB0EO5t4") }}
+### O que é Trello? 
+
+{{ mytube(id="JxhwXrKYWKI") }}
+
+### Como usar o Trello
+
+{{ mytube(id="zz8hD9F2VF8") }}
+
+### Ferramenta digitais para educação online: Trello
+
+{{ mytube(id="oMD1xv3cWKE") }}

@@ -1,10 +1,17 @@
 +++
-title = "Postando atividades simples"
+title = "Google Forms"
 weight = 3
 +++
 
+### Criando atividades com testes (Formulários)
 
-## Como postar atividades
+{{ mytube(id="3J58WTdKHWE") }}
 
-{{ mytube(id="APTzxiLblg8") }}
+### Elaborando e Configurando Avaliações
+
+{{ mytube(id="tTw3z_-Q3a4") }}
+
+### Corrigindo as Avaliações
+
+{{ mytube(id="ZUa359VzHpc") }}
 

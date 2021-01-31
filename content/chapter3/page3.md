@@ -1,8 +1,20 @@
 +++
-title = "Controle de sala e apresentação de tela"
+title = "Kahoot"
 weight = 3
 +++
 
-## Controle participantes, gravação e apresentação de tela
+## Conheça mais sobre o Kahoot
 
-{{ mytube(id="3wc4R1Z7s5g")}}
+Para conhecer melhor o Kahoot, consulte o [site oficial](https://www.kahoot.com/)
+
+### Kahoot: Como usar nas aulas presenciais ou online
+
+{{ mytube(id="6MWUMYmAImo") }}
+
+### Como usar o Kahoot
+
+{{ mytube(id="R90XIf2FhNc") }}
+
+### Ferramentas digitais para educação online: Kahoot
+
+{{ mytube(id="G4L07RYCGgQ") }}

@@ -1,19 +1,13 @@
 +++
-title = "Atividades com testes (Formulários)"
+title = "Google Jamboard"
 weight = 4
 +++
 
+### Como usar o Jamboard
+{{ mytube(id="_mxJDV-p7e4") }}
 
-## Criando atividades com testes (Formulários)
+### Tutorial: Jamboard
+{{ mytube(id="zXoi7qRZ8R4") }}
 
-{{ mytube(id="3J58WTdKHWE") }}
-
-## Elaborando e Configurando Avaliações
-
-{{ mytube(id="tTw3z_-Q3a4") }}
-
-## Corrigindo as Avaliações
-
-{{ mytube(id="ZUa359VzHpc") }}
-
-
+### Google Jamboard: Novas Funções.
+{{ mytube(id="vQHO8-wTRvw") }}
