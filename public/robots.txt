@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://diap.netlify.app/sitemap.xml

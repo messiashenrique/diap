@@ -12,7 +12,6 @@ Conheça algumas funcionalidades do Google Sala de Aula, através dos vídeos ab
 **Obs.: Para evitar problemas, NÃO use a opção de link do Meet presente, por padrão, dentro do Classroom. Para entender melhor, veja [aqui](/chapter2/page2/#antes-de-iniciar-as-aulas-pelo-meet-veja-esse-video).**
 
 
-
 ### Como criar turmas e configurar o ambiente.
 {{ mytube(id="B6Ld8A99bWA") }}
 
